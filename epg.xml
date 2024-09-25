@@ -1,45 +1,45 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="BLASTPremier.yt">
+  <channel id="BLASTPremier.tt">
     <display-name lang="en">Blast Premier</display-name>
   </channel>
-  <programme channel="BLASTPremier.yt" start="20240729180000 +0100" stop="20240729210000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240925090000 +0100" stop="20240925120000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
-  <programme channel="BLASTPremier.yt" start="20240729210000 +0100" stop="20240730000000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240925120000 +0100" stop="20240925150000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
-  <programme channel="BLASTPremier.yt" start="20240730000000 +0100" stop="20240730030000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240925150000 +0100" stop="20240925180000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
-  <programme channel="BLASTPremier.yt" start="20240730030000 +0100" stop="20240730060000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240925180000 +0100" stop="20240925210000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
-  <programme channel="BLASTPremier.yt" start="20240730060000 +0100" stop="20240730090000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240925210000 +0100" stop="20240926000000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
-  <programme channel="BLASTPremier.yt" start="20240730090000 +0100" stop="20240730120000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240926000000 +0100" stop="20240926030000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
-  <programme channel="BLASTPremier.yt" start="20240730120000 +0100" stop="20240730150000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240926030000 +0100" stop="20240926060000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
-  <programme channel="BLASTPremier.yt" start="20240730150000 +0100" stop="20240730180000 +0100">
-    <title lang="en">Fall Groups 2024: Spirit vs OG, Complexity vs HEROIC, Vitality vs GamerLegion, Astralis vs Falcons</title>
-    <desc lang="en">https://BLAST.tv/live - The BEST place to watch BLAST Premier Fall Groups 👀Check out our NEW BLAST.tv app currently in beta!App Store 👉 https://apps.apple....</desc>
-    <icon src="https://i.ytimg.com/vi/0UGkrQ6scFc/maxresdefault_live.jpg"/>
+  <programme channel="BLASTPremier.tt" start="20240926060000 +0100" stop="20240926090000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 1: NAVI vs Falcons, G2 vs FaZe, Vitality vs Astralis, Spirit vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
 </tv>
