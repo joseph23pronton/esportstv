@@ -2,11 +2,6 @@
   <channel id="BLASTPremier.tt">
     <display-name lang="en">Blast Premier</display-name>
   </channel>
-  <programme channel="BLASTPremier.tt" start="20240926090000 +0100" stop="20240926120000 +0100">
-    <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Day 2: Falcons vs FaZe, NAVI vs G2, Astralis vs Spirit, Vitality vs Liquid</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
-  </programme>
   <programme channel="BLASTPremier.tt" start="20240926120000 +0100" stop="20240926150000 +0100">
     <title lang="en">BLASTPremier</title>
     <desc lang="en">BLAST Fall Final 2024, Day 2: Falcons vs FaZe, NAVI vs G2, Astralis vs Spirit, Vitality vs Liquid</desc>
@@ -38,6 +33,11 @@
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240927060000 +0100" stop="20240927090000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Day 2: Falcons vs FaZe, NAVI vs G2, Astralis vs Spirit, Vitality vs Liquid</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="BLASTPremier.tt" start="20240927090000 +0100" stop="20240927120000 +0100">
     <title lang="en">BLASTPremier</title>
     <desc lang="en">BLAST Fall Final 2024, Day 2: Falcons vs FaZe, NAVI vs G2, Astralis vs Spirit, Vitality vs Liquid</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
