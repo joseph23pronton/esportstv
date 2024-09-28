@@ -2,44 +2,44 @@
   <channel id="BLASTPremier.tt">
     <display-name lang="en">Blast Premier</display-name>
   </channel>
-  <programme channel="BLASTPremier.tt" start="20240928150000 +0100" stop="20240928180000 +0100">
-    <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
-  </programme>
   <programme channel="BLASTPremier.tt" start="20240928180000 +0100" stop="20240928210000 +0100">
     <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240928210000 +0100" stop="20240929000000 +0100">
     <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240929000000 +0100" stop="20240929030000 +0100">
     <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240929030000 +0100" stop="20240929060000 +0100">
     <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240929060000 +0100" stop="20240929090000 +0100">
     <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240929090000 +0100" stop="20240929120000 +0100">
     <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240929120000 +0100" stop="20240929150000 +0100">
     <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Semifinals: Team Vitality vs G2 Esports &amp; Natus Vincere vs FaZe Clan</desc>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="BLASTPremier.tt" start="20240929150000 +0100" stop="20240929180000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Semifinals: Natus Vincere vs FaZe Clan</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
 </tv>
