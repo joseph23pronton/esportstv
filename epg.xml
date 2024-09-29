@@ -2,11 +2,6 @@
   <channel id="BLASTPremier.tt">
     <display-name lang="en">Blast Premier</display-name>
   </channel>
-  <programme channel="BLASTPremier.tt" start="20240929120000 +0100" stop="20240929150000 +0100">
-    <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Fall Final 2024, Grandfinals: Natus Vincere vs G2 Esports</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
-  </programme>
   <programme channel="BLASTPremier.tt" start="20240929150000 +0100" stop="20240929180000 +0100">
     <title lang="en">BLASTPremier</title>
     <desc lang="en">BLAST Fall Final 2024, Grandfinals: Natus Vincere vs G2 Esports</desc>
@@ -38,6 +33,11 @@
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20240930090000 +0100" stop="20240930120000 +0100">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Fall Final 2024, Grandfinals: Natus Vincere vs G2 Esports</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="BLASTPremier.tt" start="20240930120000 +0100" stop="20240930150000 +0100">
     <title lang="en">BLASTPremier</title>
     <desc lang="en">BLAST Fall Final 2024, Grandfinals: Natus Vincere vs G2 Esports</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
