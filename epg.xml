@@ -2,11 +2,6 @@
   <channel id="BLASTPremier.tt">
     <display-name lang="en">Blast Premier</display-name>
   </channel>
-  <programme channel="BLASTPremier.tt" start="20241031090000 +0000" stop="20241031120000 +0000">
-    <title lang="en">BLASTPremier</title>
-    <desc lang="en">BLAST Premier World Final 2024, Day 2: NAVI vs FaZe Clan, Astralis vs MOUZ, Team Liquid vs Vitality &amp; G2 vs Spirit</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
-  </programme>
   <programme channel="BLASTPremier.tt" start="20241031120000 +0000" stop="20241031150000 +0000">
     <title lang="en">BLASTPremier</title>
     <desc lang="en">BLAST Premier World Final 2024, Day 2: NAVI vs FaZe Clan, Astralis vs MOUZ, Team Liquid vs Vitality &amp; G2 vs Spirit</desc>
@@ -38,6 +33,11 @@
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
   </programme>
   <programme channel="BLASTPremier.tt" start="20241101060000 +0000" stop="20241101090000 +0000">
+    <title lang="en">BLASTPremier</title>
+    <desc lang="en">BLAST Premier World Final 2024, Day 2: NAVI vs FaZe Clan, Astralis vs MOUZ, Team Liquid vs Vitality &amp; G2 vs Spirit</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="BLASTPremier.tt" start="20241101090000 +0000" stop="20241101120000 +0000">
     <title lang="en">BLASTPremier</title>
     <desc lang="en">BLAST Premier World Final 2024, Day 2: NAVI vs FaZe Clan, Astralis vs MOUZ, Team Liquid vs Vitality &amp; G2 vs Spirit</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/d8c42d16-48ba-434b-a010-4ff9dc954068-profile_image-300x300.png"/>
